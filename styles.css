@@ -41,6 +41,7 @@ body {
     height: 400px; /* Ajusta la altura según tus necesidades */
     display: flex;
     align-items: center;
+    flex-direction: column;
   }
   
   .hero-content {
